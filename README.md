@@ -1,4 +1,4 @@
-# Project: Churn Prediction in Telco 
+# Project: Fraud Detection in Banking
 ## Group 5
 ### Members: 
 1. Nguyễn Hoài An
