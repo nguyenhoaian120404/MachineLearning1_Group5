@@ -13,3 +13,5 @@
 - https://www.kaggle.com/datasets/aniruddhachoudhury/creditcard-fraud-detection
 - https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
+#### 3. Output: 
+#### 4. Những kỹ thuật sử dụng
