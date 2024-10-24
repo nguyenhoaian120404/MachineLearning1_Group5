@@ -23,4 +23,19 @@ Ultimately, this research contributes to a safer banking environment by presenti
 - https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 #### 3. Output: 
-#### 4. Những kỹ thuật sử dụng
+### IV. Những kỹ thuật sử dụng
+#### 1.Logistic Regression 
+
+#### 2.KNN
+
+#### 3.K-Means
+
+#### 4.Decision Tree-Random Forest
+
+#### 5.DNN 
+
+#### 6.Support Vector Machine
+
+#### 7.Naive Bayes
+
+#### 8.LightGBM (Light Gradient Boosting Machine)
