@@ -8,11 +8,11 @@
 5. Võ Thị Minh Phương
 ### I. Giới thiệu bài toán 
 #### 1. Problem Statement
-      In today’s rapidly evolving digital financial landscape, fraud has become one of the most critical challenges faced by the banking sector. With the rise of online transactions, mobile banking, and instant payments, the potential for fraudulent activities has multiplied, posing significant risks to both institutions and customers. Traditional methods of detecting fraud often struggle to keep pace with the sophistication of modern cyber threats. Consequently, the need for more advanced, efficient, and real-time fraud detection systems has never been greater.
+In today’s rapidly evolving digital financial landscape, fraud has become one of the most critical challenges faced by the banking sector. With the rise of online transactions, mobile banking, and instant payments, the potential for fraudulent activities has multiplied, posing significant risks to both institutions and customers. Traditional methods of detecting fraud often struggle to keep pace with the sophistication of modern cyber threats. Consequently, the need for more advanced, efficient, and real-time fraud detection systems has never been greater.
 
-     This project explores the application of machine learning and data analytics in detecting fraudulent activities within the banking industry. By leveraging vast datasets and powerful algorithms, our approach aims to identify suspicious patterns and anomalies with greater accuracy and speed, minimizing false positives and reducing financial losses. The study not only addresses the technical challenges but also highlights the importance of balancing security with user experience, ensuring that protective measures do not compromise the convenience of legitimate banking operations.
+This project explores the application of machine learning and data analytics in detecting fraudulent activities within the banking industry. By leveraging vast datasets and powerful algorithms, our approach aims to identify suspicious patterns and anomalies with greater accuracy and speed, minimizing false positives and reducing financial losses. The study not only addresses the technical challenges but also highlights the importance of balancing security with user experience, ensuring that protective measures do not compromise the convenience of legitimate banking operations.
 
-     Ultimately, this research contributes to a safer banking environment by presenting cutting-edge solutions that adapt to evolving fraud techniques, safeguarding financial assets, and maintaining customer trust in an increasingly digital world.
+Ultimately, this research contributes to a safer banking environment by presenting cutting-edge solutions that adapt to evolving fraud techniques, safeguarding financial assets, and maintaining customer trust in an increasingly digital world.
 
 
         
