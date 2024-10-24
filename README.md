@@ -21,6 +21,7 @@ Ultimately, this research contributes to a safer banking environment by presenti
 - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
 - https://www.kaggle.com/datasets/aniruddhachoudhury/creditcard-fraud-detection
 - https://www.kaggle.com/datasets/kartik2112/fraud-detection
+- https://www.kaggle.com/code/dipansujoshi/credit-card-fraud-detection-accuracy-92
 
 #### 3. Output: 
 ### IV. Những kỹ thuật sử dụng
