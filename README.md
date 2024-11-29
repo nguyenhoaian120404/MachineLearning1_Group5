@@ -25,7 +25,7 @@ Ultimately, this research contributes to a safer banking environment by presenti
 - https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022?fbclid=IwY2xjawGQJzFleHRuA2FlbQIxMAABHex1bZxGhla-oyw2enbxNSvqQk-3Ljn3BRrngSIE94GJARVIvYuTNpN1gw_aem_pnEG0Pjq0kQcmO2QEYsumw
 
 #### 3. Output: 
-### IV. Những kỹ thuật sử dụng
+### I. Những kỹ thuật sử dụng
 #### 1. Logistic Regression 
 
 #### 2. KNN
@@ -34,12 +34,7 @@ Ultimately, this research contributes to a safer banking environment by presenti
 
 #### 4. Random Forest
 
-#### 5. DNN 
+### 5. Naive Bayes
 
-#### 6. Support Vector Machine
 
-#### 7. Naive Bayes
 
-#### 8. LightGBM (Light Gradient Boosting Machine)
-
-#### 9. XGBoost
